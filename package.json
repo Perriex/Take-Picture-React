@@ -2,7 +2,7 @@
   "name": "react-camera",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://perriex.github.io/take-picture-react/",
+  "homepage": "https://perriex.github.io/Take-Picture-React/",
   "type": "module",
   "scripts": {
     "dev": "vite",
